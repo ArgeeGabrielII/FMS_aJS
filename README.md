@@ -42,7 +42,7 @@ Provides fast, reliable and extensible starter for the development of Angular pr
 In order to start the project use:
 
 ```bash
-$ git clone http://karlbuena@ec2-3-1-94-169.ap-southeast-1.compute.amazonaws.com/karlbuena/Default-Template.git yourProjectName
+$ git clone https://github.com/ArgeeGabrielII/FMS_aJS.git yourProjectName
 $ cd yourProjectName
 # install the project's dependencies
 $ npm install
